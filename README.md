@@ -57,5 +57,4 @@
 
 ## 系統執行
 
-- 執行
-      執行`.\notebooks\crawler.ipynb`，輸出位於`data\output\*.txt`
+- 執行`.\notebooks\crawler.ipynb`，輸出位於`data\output\*.txt`
